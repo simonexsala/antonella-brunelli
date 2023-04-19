@@ -31,7 +31,7 @@
         <h3 class="text-3xl font-bold md:text-5xl">Blog</h3>
 
         <p class="text-md">Leggi curiosità su eventi, luoghi e personaggi d'Irlanda</p>
-        <NuxtLink to="/tour">
+        <NuxtLink to="/blog">
           <button class="mt-4 flex justify-center items-center gap-x-1 w-40 py-3 text-sm font-medium text-white transition bg-violet-300 rounded-xl hover:bg-violet-300 hover:shadow-lg">
             Blog 
             <Icon name="material-symbols:arrow-forward" size="18" />

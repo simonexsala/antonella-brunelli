@@ -20,7 +20,7 @@ useHead({
   <div class="container flex-1 max-w-3xl mt-2 px-6 mx-auto space-y-12 xl:max-w-5xl">
     <main>
       <div>
-        <h2 class="underline decoration-2 decoration-violet-300 text-3xl font-extrabold">Tour</h2>
+        <h2 class="underline decoration-2 decoration-violet-300 text-3xl font-extrabold text-center">Tour</h2>
       </div>
       <div class="grid justify-center grid-cols-1 gap-4 sm:grid-cols-2 mt-6 ">
         <div v-for="scritto in scritti" :key="scritto._id">

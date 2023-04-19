@@ -1,7 +1,7 @@
 <template>
 	<div class="antialiased selection:bg-violet-300/[.4]">
     <Header /> 
-      <div class="mb-2 flex flex-col min-h-screen space-y-6">
+      <div class="mb-2 flex flex-col space-y-6">
         <NuxtLoadingIndicator color="#d8b4fe" :throttle="0" />
         <NuxtPage />
       </div>

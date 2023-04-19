@@ -44,6 +44,11 @@
                 Biografia
               </NuxtLink>
             </MenuItem>
+            <MenuItem v-slot="{ close }">
+              <NuxtLink to="/contatti" @mouseup="close" class="select-none active:bg-gray-100 group flex items-center justify-between rounded-lg px-4 py-2 text-gray-700 text-sm font-medium hover:bg-gray-100" exact-active-class="bg-violet-300/70 text-white">
+                Contatti
+              </NuxtLink>
+            </MenuItem>
           </div>
         </MenuItems>
       </transition>

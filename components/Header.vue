@@ -23,6 +23,9 @@
             <NuxtLink to="/biografia" class="hover:bg-violet-300 hover:text-white rounded-xl px-4 py-2" exact-active-class="bg-violet-300/70 text-white">
               Biografia
             </NuxtLink>
+            <NuxtLink to="/contatti" class="hover:bg-violet-300 hover:text-white rounded-xl px-4 py-2" exact-active-class="bg-violet-300/70 text-white">
+              Contatti
+            </NuxtLink>
           </nav>
         </div>
         
