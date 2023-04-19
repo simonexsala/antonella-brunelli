@@ -27,10 +27,10 @@
         <h2 class="underline decoration-2 decoration-violet-300 text-3xl font-extrabold text-center">Certificazioni</h2>
         <div class="grid grid-cols-2 mx-auto justify-center gap-8">
           <div class="justify-center justify-self-center">
-            <img src="ae.jpg" class="w-52" alt="">
+            <NuxtImg src="ae.jpg" class="w-52" alt="" />
           </div>
           <div class="justify-center justify-self-center">
-            <img src="atgi.jpg" class="w-52" alt="">
+            <NuxtImg src="atgi.jpg" class="w-52" alt="" />
           </div>
         </div>
       </div>
