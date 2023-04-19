@@ -1,6 +1,6 @@
 <template>
   <div class="relative block overflow-hidden rounded-xl shadow-md 
-    bg-[url(tour.jpg)] 
+    bg-[url(/public/tour.jpg)] 
     bg-cover bg-center bg-no-repeat"
   >
     <div class="absolute inset-0 bg-black/25"></div>
@@ -21,7 +21,7 @@
   </div>
 
   <div class="relative block overflow-hidden rounded-xl shadow-md 
-    bg-[url(ireland.jpg)] 
+    bg-[url(/public/ireland.jpg)] 
     bg-cover bg-center bg-no-repeat"
   >
     <div class="absolute inset-0 bg-black/25"></div>
