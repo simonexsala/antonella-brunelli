@@ -18,7 +18,7 @@
           <br />
           Iniziate a sognare il vostro viaggio in Irlanda, l'Irlanda non è una meta facile, l'Irlanda non è per tutti! Se amate la Natura, se cercate il silenzio e se volete affidarvi ad una Guida con tanti anni d'esperienza scrivetemi perché io possa farvi vivere un' indimenticabile vacanza in Slow Tourism. Vi riconcilierete con quella parte di voi che nella routine quotidiana avete messo da parte. 
           <br />
-          Sono guida nazionale certificata (White Badge) riconosciuta dall'ente nazionale del turismo irlandese Fàilte Ireland e faccio parte di Atgi, Approved Tourist Guides of Ireland, membro di ITIC, Irish Tourism Industry Confederation, e di Rathmichael Historical Society. 
+          Sono guida nazionale certificata (White Badge) riconosciuta dall'ente nazionale del turismo irlandese Fàilte Ireland e faccio parte di Atgi, Approved Tourist Guides of Ireland, membro di ITIC, Irish Tourism Industry Confederation, della Rathmichael Historical Society e di RHSI Royal Horticultural Society of Ireland.
           <br />
           Vi aspetto in Irlanda!
         </p>
